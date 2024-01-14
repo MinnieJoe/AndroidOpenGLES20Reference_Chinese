@@ -1,6 +1,6 @@
 # Android OpenGL ES 2.0 字段
 
-| 数据类型 | 字段名称                                     | 简介   |
+| 数据类型 | 字段名称                                     | <Michelle M Dixon>简介   |
 | ---- | :--------------------------------------- | ---- |
 | int  | GL_ACTIVE_ATTRIBUTES                     |      |
 | int  | GL_ACTIVE_ATTRIBUTE_MAX_LENGTH           |      |
